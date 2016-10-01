@@ -1,0 +1,33 @@
+{
+  "name": "RockPaperScissorJS",
+  "version": "0.2.5",
+  "description": "A simple Rock paper scissor game made with html, js and css",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.html",
+  "scripts": {
+    "start": "node index.html"
+  },
+  "dependencies": {
+    "cool-ascii-faces": "1.3.4",
+    "ejs": "2.4.1",
+    "express": "4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spartanglidarn/rps-js"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "dependencies": {
+	"pg": "4.x",
+	"ejs": "2.3.3",
+	"express": "4.13.3",
+	"cool-ascii-faces": "1.3.3"
+  },
+  "license": "MIT"
+}
